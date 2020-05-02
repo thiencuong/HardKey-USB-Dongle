@@ -1,0 +1,49 @@
+C:\Users\Thien\Downloads\USB2550HidTest\UsbHid\bin\Debug\UsbHid.dll
+C:\Users\Thien\Downloads\USB2550HidTest\UsbHid\bin\Debug\UsbHid.pdb
+C:\Users\Thien\Downloads\USB2550HidTest\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+C:\Users\Thien\Downloads\USB2550HidTest\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.Cache
+C:\Users\Thien\Downloads\USB2550HidTest\UsbHid\obj\Debug\UsbHid.dll
+C:\Users\Thien\Downloads\USB2550HidTest\UsbHid\obj\Debug\UsbHid.pdb
+E:\Data Learn\programer\c#\ColorMixing_v2\UsbHid\bin\Debug\UsbHid.dll
+E:\Data Learn\programer\c#\ColorMixing_v2\UsbHid\bin\Debug\UsbHid.pdb
+E:\Data Learn\programer\c#\ColorMixing_v2\UsbHid\obj\Debug\UsbHid.csprojResolveAssemblyReference.cache
+E:\Data Learn\programer\c#\ColorMixing_v2\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+E:\Data Learn\programer\c#\ColorMixing_v2\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.Cache
+E:\Data Learn\programer\c#\ColorMixing_v2\UsbHid\obj\Debug\UsbHid.dll
+E:\Data Learn\programer\c#\ColorMixing_v2\UsbHid\obj\Debug\UsbHid.pdb
+E:\Data Learn\programer\c#\paint_mixing_samsung_v2_usb\paint_mixing_samsung\UsbHid\bin\Debug\UsbHid.dll
+E:\Data Learn\programer\c#\paint_mixing_samsung_v2_usb\paint_mixing_samsung\UsbHid\bin\Debug\UsbHid.pdb
+E:\Data Learn\programer\c#\paint_mixing_samsung_v2_usb\paint_mixing_samsung\UsbHid\obj\Debug\UsbHid.csprojResolveAssemblyReference.cache
+E:\Data Learn\programer\c#\paint_mixing_samsung_v2_usb\paint_mixing_samsung\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+E:\Data Learn\programer\c#\paint_mixing_samsung_v2_usb\paint_mixing_samsung\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.Cache
+E:\Data Learn\programer\c#\paint_mixing_samsung_v2_usb\paint_mixing_samsung\UsbHid\obj\Debug\UsbHid.dll
+E:\Data Learn\programer\c#\paint_mixing_samsung_v2_usb\paint_mixing_samsung\UsbHid\obj\Debug\UsbHid.pdb
+D:\01. Project\07. STM32 Bootloader\DownLoadProgram\UsbHid\bin\Debug\UsbHid.dll
+D:\01. Project\07. STM32 Bootloader\DownLoadProgram\UsbHid\bin\Debug\UsbHid.pdb
+D:\01. Project\07. STM32 Bootloader\DownLoadProgram\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+D:\01. Project\07. STM32 Bootloader\DownLoadProgram\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.Cache
+D:\01. Project\07. STM32 Bootloader\DownLoadProgram\UsbHid\obj\Debug\UsbHid.dll
+D:\01. Project\07. STM32 Bootloader\DownLoadProgram\UsbHid\obj\Debug\UsbHid.pdb
+D:\01. Project\07. STM32 Bootloader\DownLoadProgram\UsbHid\obj\Debug\UsbHid.csprojResolveAssemblyReference.cache
+E:\01. Project\07. STM32 Bootloader\DownLoadProgram\UsbHid\bin\Debug\UsbHid.dll
+E:\01. Project\07. STM32 Bootloader\DownLoadProgram\UsbHid\bin\Debug\UsbHid.pdb
+E:\01. Project\07. STM32 Bootloader\DownLoadProgram\UsbHid\obj\Debug\UsbHid.csprojAssemblyReference.cache
+E:\01. Project\07. STM32 Bootloader\DownLoadProgram\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+E:\01. Project\07. STM32 Bootloader\DownLoadProgram\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.cache
+E:\01. Project\07. STM32 Bootloader\DownLoadProgram\UsbHid\obj\Debug\UsbHid.dll
+E:\01. Project\07. STM32 Bootloader\DownLoadProgram\UsbHid\obj\Debug\UsbHid.pdb
+I:\01. Program Data\01. Project\25. Hardkey\DownLoadProgram\UsbHid\bin\Debug\UsbHid.dll
+I:\01. Program Data\01. Project\25. Hardkey\DownLoadProgram\UsbHid\bin\Debug\UsbHid.pdb
+I:\01. Program Data\01. Project\25. Hardkey\DownLoadProgram\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+I:\01. Program Data\01. Project\25. Hardkey\DownLoadProgram\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.cache
+I:\01. Program Data\01. Project\25. Hardkey\DownLoadProgram\UsbHid\obj\Debug\UsbHid.csproj.CoreCompileInputs.cache
+I:\01. Program Data\01. Project\25. Hardkey\DownLoadProgram\UsbHid\obj\Debug\UsbHid.dll
+I:\01. Program Data\01. Project\25. Hardkey\DownLoadProgram\UsbHid\obj\Debug\UsbHid.pdb
+E:\01. Project\25. Hardkey\DownLoadProgram\UsbHid\bin\Debug\UsbHid.dll
+E:\01. Project\25. Hardkey\DownLoadProgram\UsbHid\bin\Debug\UsbHid.pdb
+E:\01. Project\25. Hardkey\DownLoadProgram\UsbHid\obj\Debug\UsbHid.csprojAssemblyReference.cache
+E:\01. Project\25. Hardkey\DownLoadProgram\UsbHid\obj\Debug\UsbHid.USB.Classes.DeviceChangeNotifier.resources
+E:\01. Project\25. Hardkey\DownLoadProgram\UsbHid\obj\Debug\UsbHid.csproj.GenerateResource.cache
+E:\01. Project\25. Hardkey\DownLoadProgram\UsbHid\obj\Debug\UsbHid.csproj.CoreCompileInputs.cache
+E:\01. Project\25. Hardkey\DownLoadProgram\UsbHid\obj\Debug\UsbHid.dll
+E:\01. Project\25. Hardkey\DownLoadProgram\UsbHid\obj\Debug\UsbHid.pdb

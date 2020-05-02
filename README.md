@@ -6,3 +6,4 @@ Using STM32
 - AES 256
 - Chip protect
 - Update firmware
+- Schematic will update later
